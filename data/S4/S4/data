@@ -1,0 +1,10 @@
+seq_len=1000 num_seq=22 mut_rate=0.10 file=0.10/template_1.fa template=template_1 cg=0.50 seq_start=1
+seq_len=1000 num_seq=25 mut_rate=0.10 file=0.10/template_2.fa template=template_2 cg=0.50 seq_start=23
+seq_len=1000 num_seq=25 mut_rate=0.10 file=0.10/template_3.fa template=template_3 cg=0.50 seq_start=48
+seq_len=1000 num_seq=23 mut_rate=0.10 file=0.10/template_4.fa template=template_4 cg=0.50 seq_start=73
+seq_len=1000 num_seq=25 mut_rate=0.10 file=0.10/template_5.fa template=template_5 cg=0.50 seq_start=96
+seq_len=1000 num_seq=22 mut_rate=0.10 file=0.10/template_6.fa template=template_6 cg=0.50 seq_start=121
+seq_len=1000 num_seq=24 mut_rate=0.10 file=0.10/template_7.fa template=template_7 cg=0.50 seq_start=143
+seq_len=1000 num_seq=25 mut_rate=0.10 file=0.10/template_8.fa template=template_8 cg=0.50 seq_start=167
+seq_len=1000 num_seq=23 mut_rate=0.10 file=0.10/template_9.fa template=template_9 cg=0.50 seq_start=192
+seq_len=1000 num_seq=22 mut_rate=0.10 file=0.10/template_10.fa template=template_10 cg=0.50 seq_start=215
